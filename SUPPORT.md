@@ -1,8 +1,7 @@
 # Getting Support
 
 For questions (e.g., both quick questions and those requiring examples) please email
-[Start Your Lab Support](mailto:support@startyourlab.com). [NOTE: please update this to one
-of your own lab members.]
+[CiCL Support](mailto:comanlab+github@gmail.com).
 
 To report issues, use this repository's issue tracker.
 
