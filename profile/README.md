@@ -1,6 +1,6 @@
-# Cognition in Collectives Lab (CiCL) on GitHub
+# Cognition in Collectives Lab (CiCL) on GitHub :octocat:
 
-## Our approach to psychological science
+## Our approach to psychological science 🧠
 
 We investigate how cognition manifests in, and is influenced by, the social
 contexts in which it occurs. Using a social-interactionist approach, we
