@@ -2,7 +2,7 @@
 name: "💡 Feature Request"
 about: Suggest an idea for this project
 title: "feat:"
-labels: feature, needs-triage
+labels: feat-request, needs-triage
 assignees: ''
 
 ---
@@ -12,6 +12,7 @@ assignees: ''
 
 A brief summary of the feature.
 
+<!-- A technical and/or scientific reason this feature is wanted or needed. -->
 ### Motivation
 
 Why should this be worked on? What problems or use cases does it solve or
@@ -22,6 +23,7 @@ improve?
 
 Describe the solution you'd like.
 
-### Additional context
+<!-- If applicable, delete otherwise. -->
+### Additional Context
 
 Any other context or screenshots.
