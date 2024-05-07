@@ -2,7 +2,7 @@
 name: "📙 Documentation Request"
 about: Request for more documentation on our software
 title: "doc:"
-labels: improves-docs, docs-request, needs-triage
+labels: docs-request, needs-triage
 assignees: ''
 
 ---
