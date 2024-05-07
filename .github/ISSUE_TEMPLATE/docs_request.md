@@ -12,6 +12,7 @@ assignees: ''
 
 A brief summary of what needs documentation.
 
-### Source
+<!-- Please specify relevant files and specific variables, methods, classes, or otherwise. -->
+### Source of Request
 
-What part of the project needs documentation? Please specify files and specific variables, methods, classes, or otherwise.
+What part of the project needs documentation?
