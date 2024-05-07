@@ -2,7 +2,7 @@
 name: "💡 Feature Request"
 about: Suggest an idea for this project
 title: "feat: "
-labels: feat-request, needs-triage
+labels: feat request, needs triage
 assignees: ''
 
 ---
