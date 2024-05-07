@@ -1,7 +1,7 @@
 ---
 name: "📙 Documentation Request"
 about: Request for more documentation on our software
-title: "doc:"
+title: "docs: "
 labels: docs-request, needs-triage
 assignees: ''
 
