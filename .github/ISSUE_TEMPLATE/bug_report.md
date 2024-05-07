@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: ":bug: Bug Report"
 about: Create a report to help us improve our software
 title: "bug:"
 labels: bug
