@@ -13,7 +13,7 @@ CiCL has adopted a Code of Conduct that we expect our community members to adher
 
 ## Our development process
 
-Start Your Lab uses [GitHub](https://github.com/startyourlab) repositories as its sources of truth. The active team will be working directly there. All repository changes will be, and have been, public from the beginning.
+CiCL uses [GitHub](https://github.com/comanlab) repositories as its sources of truth. The active lab members will be working directly there.
 
 ### Reporting new issues
 
@@ -28,8 +28,6 @@ We use GitHub Issues for tracking, discussing, and fixing our site's bugs. If yo
 
 If you have questions, contact [CiCL](comanlab+github@gmail.com), and we will do our best to answer your questions.
 
-You can also file issues as [feature requests or enhancements](https://github.com/startyourlab/website/labels/feature). If you see anything you'd like to be implemented, create an issue with the [feature request template](https://github.com/startyourlab/website/issues/new?assignees=&labels=feature%2C+needs+triage&template=feature_request.md)
-
 ## License
 
-By contributing to any of CiCL's repositories, you agree that your contributions will be licensed under its MIT license.
+By contributing to any of CiCL's repositories, you agree that your contributions will be licensed under its MIT license unless specified otherwise in the repository in question.
